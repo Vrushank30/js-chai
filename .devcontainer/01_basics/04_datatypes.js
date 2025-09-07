@@ -11,5 +11,10 @@ let myObj = {
 const myFunction = function(){
     console.log("Hello world");
 }
-myFunction();
-console.log(typeof players);
+//myFunction();
+//console.log(typeof players);
+
+
+
+//stack(primitive),heap(non-primitive) memory
+
