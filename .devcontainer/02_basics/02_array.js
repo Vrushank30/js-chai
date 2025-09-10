@@ -15,5 +15,5 @@ const midfielders = ["pedri","dejong","casado","olmo"]
 
 //concat spread operator
 const unt = [...defenders,...midfielders];
-// console.log(unt);
+console.log(unt);
 
